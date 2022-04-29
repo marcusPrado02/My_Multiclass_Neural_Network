@@ -13,12 +13,6 @@ import java.util.Map;
 import java.util.HashMap;
 
 /*
-4 main steps:
-1) build the HTTP call object 
-2) set HTTP 'body' as the values of the audio (Liviness, tempo, valence, etc...)
-3) send the request
-4) receives the request in JSON and parses it to a HashMap list. the return contains
-the probability of each class, and the main class possibility
 Funciona em 4 passos principais:
 
 1) Constrói o objeto da chamada HTTP a ser enviado ao serviço web do modelo
