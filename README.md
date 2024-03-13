@@ -21,9 +21,3 @@ Este projeto está hospedado na plataforma Azure, o que significa que você pode
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE), o que significa que você é livre para usar, modificar e distribuir o código conforme desejar.
-
-## Contato
-
-Se você tiver dúvidas, sugestões ou quiser entrar em contato, sinta-se à vontade para abrir uma issue neste repositório ou nos enviar um e-mail em exemplo@email.com.
-
-Agradecemos pelo interesse em nossa Multiclass Neural Network em Java hospedada no Azure! Esperamos que seja útil para você em seus projetos de aprendizado de máquina e desenvolvimento de software.
